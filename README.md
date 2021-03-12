@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ### Projects:
 - React + Python with GraphQL: https://customcrafts.herokuapp.com/
 - Node + Express + Pug with PostgreSQL: https://clackapp.herokuapp.com/
+### Are you or your company hiring?
+- My Portfolio website where you can download my resume as pdf: https://seraph9.github.io/Abdullah_Wafy/
 ### Technologies:
 - **Frontend:** HTML 5, CSS 3, Vanilla.js (i.e. JavaScript proper), TypeScript, Angular (i.e. Angular 2+), React.js, Redux.js, AJAX, jSON.
 - **Backend:** Node.js, Python 3, Express.js, Flask, ReSTful APIs, Sequelize.js, SQLAlchemy with Alembic, :dog: Pug.js, Handlebars.js with Moustache.js, PostgreSQL, MySQL, MongoDB.
