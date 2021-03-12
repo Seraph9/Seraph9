@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - Node Developer
 - Python Developer
 - 🌱 I’m currently learning TypeScript and Angular to become an "Angular Developer".
-### :mortar_board: UC Davis Alumnus - Major: Classics (*short for* Classical Civilizations)
+### Projects:
+- React + Python with GraphQL: https://customcrafts.herokuapp.com/
+- Node + Express + Pug with PostgreSQL: https://clackapp.herokuapp.com/
 ### Technologies:
 - **Frontend:** HTML 5, CSS 3, Vanilla.js (i.e. JavaScript proper), TypeScript, Angular (i.e. Angular 2+), React.js, Redux.js, AJAX, jSON.
 - **Backend:** Node.js, Python 3, Express.js, Flask, ReSTful APIs, Sequelize.js, SQLAlchemy with Alembic, :dog: Pug.js, Handlebars.js with Moustache.js, PostgreSQL, MySQL, MongoDB.
