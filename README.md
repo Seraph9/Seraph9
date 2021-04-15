@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - React Developer
 - Node Developer
 - Python Developer
-- 🔭 I’m currently working on a TypeScript and Angular project to learn boths techs.
+- 🔭 I’m currently working on a TypeScript and Angular project to learn both technologies.
 - 🌱 I’m currently learning more about GraphQL
 ### Projects:
 - React + Python with GraphQL: https://customcrafts.herokuapp.com/
