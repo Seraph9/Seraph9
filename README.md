@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Node Developer
 - Python Developer
 - 🔭 I’m currently working on a TypeScript and Angular project to learn both technologies.
-- 🌱 I’m currently learning more about GraphQL
+- 🌱 I’m currently learning more about GraphQL utilizing Github's GraphQL API and its GraphQL Explorer known as GraphiQL.
 ### Projects:
 - React + Python with GraphQL: https://customcrafts.herokuapp.com/
 - Node + Express + Pug with PostgreSQL: https://clackapp.herokuapp.com/
