@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a TypeScript and Angular project to learn both technologies.
 - 🌱 I’m currently learning more about GraphQL utilizing Github's GraphQL API and its GraphQL Explorer known as GraphiQL.
 ### Projects:
-- React + Python with GraphQL: https://customcrafts.herokuapp.com/
-- Node + Express + Pug with PostgreSQL: https://clackapp.herokuapp.com/
+- React + Python + Flask + SQLAlchemy & Alembic + Postgres with GraphQL: https://customcrafts.herokuapp.com/
+- Node + Express + Pug + Sequelize + PostgreSQL with Socket.io: https://clackapp.herokuapp.com/
 ### Are you or your company hiring?
 - My Portfolio website where you can download my resume as pdf: https://seraph9.github.io/Abdullah_Wafy/
 ### Technologies:
